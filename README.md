@@ -57,8 +57,6 @@ This script:
 ## Folder Contents
 
 * `*.conllu` files – Parsed versions of the Prague Manifesto for each language
-* `textAnalysis_moya.py` – Python script used for generating the parsed data
-* `README.md` – This documentation file
 
 ---
 
