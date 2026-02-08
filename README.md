@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains parsed linguistic data derived from the **Prague Manifesto** (source: [https://lingvo.org/prago](https://lingvo.org/prago)).
-The texts are provided in **20 different languages** and have been automatically annotated using **Universal Dependencies (UD)** standards.
+The texts are provided in **20 different languages** (Catalan, Croatian, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Lithanian, Polish, Portuguese, Romanian, Russian, Slovenian, Spanish, and Swedish) and have been automatically annotated using **Universal Dependencies (UD)** standards.
 
 All parsed outputs are stored in **CoNLL-U format**, making the dataset suitable for computational linguistics, corpus linguistics, and NLP research.
 
